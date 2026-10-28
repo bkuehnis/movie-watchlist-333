@@ -16,7 +16,7 @@
 
 </script>
 
-<h1>Welcome to ScreenStack</h1>
+<h1>Welcome to ScreenStack, Week 6</h1>
 <p>Your tracker and search engine for movies and tv shows</p>
 
     <div class="col-sm-6 col-md-4 col-lg-3 mb-2 gx-2">
